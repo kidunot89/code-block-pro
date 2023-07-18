@@ -1,0 +1,11 @@
+{
+    "name": "kidunot89/code-block-pro",
+    "description": "Code highlighting powered by the VS Code engine",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Kevin Batdorf"
+        }
+    ]
+}
